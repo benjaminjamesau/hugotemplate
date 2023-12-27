@@ -1,10 +1,10 @@
-![urine](featured-images/adderall.png)
+![urine](featured-images/pending.png)
 
 # Holding Template
 
 
 
 <div class="related-posts-grid">
-  {{< relatedpost link="/adderall" image="featured-images/adderall.png" title="How Long Does Adderall Stay in Your System? (Urine)" >}}
+  {{< relatedpost link="/pending" image="featured-images/pending.png" title="pending" >}}
   <!-- ... more posts ... -->
 </div>

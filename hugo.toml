@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [params]
   # Logo and name shown on the top left of the site
-  label = { text = "hugotemplate", icon = "/quick-help-synthetic-urine.png", iconHeight = 150 }
+  label = { text = "hugotemplate", icon = "/hugotemplate.png", iconHeight = 150 }
 
   # Social Icons
   [[params.socialIcons]] # Twitter Icon
@@ -29,7 +29,7 @@ enableRobotsTXT = true
   url = "<link3>"
 
   # OpenGraph image setting
-  images = ["/quick-help-synthetic-urine.png"]
+  images = ["/hugotemplate.png"]
 
   # Link to your custom CSS file
   customCSS = ["css/custom.css"]
