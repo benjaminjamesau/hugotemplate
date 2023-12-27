@@ -1,6 +1,6 @@
-baseURL = 'https://QUICKHELPSYNTHETICURINE.COM'
+baseURL = 'https://hugotemplate.pages.dev'
 languageCode = 'en-us'
-title = 'Quick Help Synthetic Urine'
+title = 'hugotemplate'
 theme = 'PaperMod'
 enableRobotsTXT = true
 
@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [params]
   # Logo and name shown on the top left of the site
-  label = { text = "Quick Help Synthetic Urine", icon = "/quick-help-synthetic-urine.png", iconHeight = 150 }
+  label = { text = "hugotemplate", icon = "/quick-help-synthetic-urine.png", iconHeight = 150 }
 
   # Social Icons
   [[params.socialIcons]] # Twitter Icon
