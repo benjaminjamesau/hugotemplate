@@ -1,4 +1,4 @@
-![urine](featured-images/pending.png)
+![pending](featured-images/pending.png)
 
 # Holding Template
 
