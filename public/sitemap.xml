@@ -2,15 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugotemplate.pages.dev/black/</loc>
-    <lastmod>2023-12-17T18:08:01+11:00</lastmod>
-  </url><url>
     <loc>https://hugotemplate.pages.dev/blank/</loc>
     <lastmod>2023-12-17T18:08:01+11:00</lastmod>
   </url><url>
     <loc>https://hugotemplate.pages.dev/</loc>
   </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-audi/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-bmw/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-chevrolet/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-fiat/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-ford/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-honda/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-hyundai/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-jaguar/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-kia/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-land-rover/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-lexus/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-mazda/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-mercedes-benz/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-nissan/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-porsche/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-subaru/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-tesla/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-toyota/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-volkswagen/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/-volvo/</loc>
+  </url><url>
     <loc>https://hugotemplate.pages.dev/categories/</loc>
+  </url><url>
+    <loc>https://hugotemplate.pages.dev/posts/</loc>
   </url><url>
     <loc>https://hugotemplate.pages.dev/tags/</loc>
   </url>

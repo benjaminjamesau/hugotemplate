@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugotemplate</title>
-    <link>https://hugotemplate.pages.dev/</link>
-    <description>Recent content on hugotemplate</description>
+    <title>Posts on hugotemplate</title>
+    <link>https://hugotemplate.pages.dev/posts/</link>
+    <description>Recent content in Posts on hugotemplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://hugotemplate.pages.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blank Page Template</title>
-      <link>https://hugotemplate.pages.dev/blank/</link>
-      <pubDate>Sun, 17 Dec 2023 18:08:01 +1100</pubDate>
-      <guid>https://hugotemplate.pages.dev/blank/</guid>
-      <description>Pending Related Post Grid (needs fixing) How Long Does Adderall Stay in Your System? (Urine) </description>
-    </item>
+    <atom:link href="https://hugotemplate.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://hugotemplate.pages.dev/posts/-audi/</link>
