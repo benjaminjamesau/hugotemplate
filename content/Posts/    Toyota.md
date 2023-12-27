@@ -1,3 +1,16 @@
++++
+title = '    Toyota'
+date = 2023-12-17T18:08:01+11:00
+draft = false
+ShowToc = true
+TocOpen = false
+[cover]
+image = "featured-images/    Toyota.png"  # Replace with the actual path to your image
+
++++
+
+
+
 #     Toyota Car Donation in     New York
 
 Welcome to our     Toyota car donation page for     New York. Here, we provide detailed information about how you can donate your     Toyota car to help those in need.
