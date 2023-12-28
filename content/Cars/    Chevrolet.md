@@ -1,5 +1,6 @@
 +++
 title = '    Chevrolet'
+slug = '    Chevrolet'
 date = 2023-12-17T18:08:01+11:00
 draft = false
 ShowToc = true

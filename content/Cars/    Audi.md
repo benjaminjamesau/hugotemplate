@@ -1,11 +1,12 @@
 +++
 title = '    Audi'
+slug = '    Audi'
 date = 2023-12-17T18:08:01+11:00
 draft = false
 ShowToc = true
 TocOpen = false
 [cover]
-image = "featured-images/audi.png"  # Replace with the actual path to your image
+image = "featured-images/    Audi.png"  # Replace with the actual path to your image
 
 +++
 
