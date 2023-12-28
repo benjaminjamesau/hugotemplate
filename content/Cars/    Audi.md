@@ -5,7 +5,7 @@ draft = false
 ShowToc = true
 TocOpen = false
 [cover]
-image = "featured-images/    Audi.png"  # Replace with the actual path to your image
+image = "featured-images/audi.png"  # Replace with the actual path to your image
 
 +++
 
