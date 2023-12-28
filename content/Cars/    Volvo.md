@@ -55,3 +55,9 @@ Thank you for considering the donation of your     Volvo car in     Buenos Aires
 ---
 
 *Note: The information provided here is subject to change. Please contact us directly for the most up-to-date details.*
+
+<!-- Other content -->
+
+({{same_as_schema}})
+
+<!-- Other content -->
