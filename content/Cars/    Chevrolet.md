@@ -60,4 +60,4 @@ Thank you for considering the donation of your     Chevrolet car in     London. 
 
 ({{same_as_schema}})
 
-<!-- Other content -->
+<!-- Other content --> 
