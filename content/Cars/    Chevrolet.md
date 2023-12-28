@@ -7,7 +7,6 @@ ShowToc = true
 TocOpen = false
 [cover]
 image = "featured-images/    Chevrolet.png"  # Replace with the actual path to your image
-
 +++
 
 
@@ -46,6 +45,12 @@ For more information or to start the donation process, please reach out to us:
 - **Email**:     emilyjones@nowheremail.net
 
 Thank you for considering the donation of your     Chevrolet car in     London. Your generosity makes a difference!
+
+<!-- Other content -->
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDivX6qAx8DlsaPtf6od3s40HLANl8aFcE&q=++++London" allowfullscreen></iframe>
+
+<!-- Other content -->
 
 ---
 

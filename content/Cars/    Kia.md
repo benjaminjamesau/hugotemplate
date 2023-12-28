@@ -7,7 +7,6 @@ ShowToc = true
 TocOpen = false
 [cover]
 image = "featured-images/    Kia.png"  # Replace with the actual path to your image
-
 +++
 
 
@@ -46,6 +45,12 @@ For more information or to start the donation process, please reach out to us:
 - **Email**:     kevinlee@dummyemail.org
 
 Thank you for considering the donation of your     Kia car in     Beijing. Your generosity makes a difference!
+
+<!-- Other content -->
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDivX6qAx8DlsaPtf6od3s40HLANl8aFcE&q=++++Beijing" allowfullscreen></iframe>
+
+<!-- Other content -->
 
 ---
 
