@@ -63,9 +63,9 @@ Thank you for considering the donation of your     Audi car in     Cape Town. Yo
 <!-- Other content -->
 
 <div class="related-posts-grid">
-  {{< relatedpost link="/bmw" image="/featured-images/bmw.png" title="BMW" >}}
-  {{< relatedpost link="/fiat" image="/featured-images/fiat.png" title="fiat" >}}
-  {{< relatedpost link="/kia" image="/featured-images/kia.png" title="kia" >}}
+  {{< relatedpost link="/-bmw" image="/featured-images/bmw.png" title="BMW" >}}
+    {{< relatedpost link="/-fiat" image="/featured-images/fiat.png" title="fiat" >}}
+        {{< relatedpost link="/-kia" image="/featured-images/kia.png" title="kia" >}}
 
 
   <!-- ... more posts ... -->

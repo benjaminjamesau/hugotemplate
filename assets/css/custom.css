@@ -1,9 +1,19 @@
-.grid-container {
+.related-posts-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 columns */
-    grid-template-rows: repeat(5, auto); /* 5 rows */
-    gap: 10px; /* space between items */
+    grid-template-columns: repeat(3, 1fr); /* Creates a 3-column layout */
+    grid-gap: 20px; /* Adjust the space between grid items */
+    margin: 0 auto;
+    max-width: 1200px; /* Adjust the maximum width as needed */
 }
-.grid-item {
-    /* Styles for individual items */
+
+.related-post-item {
+    /* Optional: Style for individual items */
+    border: 1px solid #ddd; /* Example: border */
+    padding: 10px;
+    text-align: center; /* Centers the text */
+}
+
+.related-post-item img {
+    max-width: 100%;
+    height: auto; /* Ensures the image scales correctly */
 }
