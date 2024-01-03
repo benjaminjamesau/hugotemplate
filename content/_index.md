@@ -2,6 +2,8 @@
 
 # Holding Template
 
+{{< soundcloud-user UserID >}}
+
 Here is the pending programatic site that Ben managed to build with hugo.. fancy!
 
 <div class="related-posts-grid">
