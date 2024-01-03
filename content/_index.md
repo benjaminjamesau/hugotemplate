@@ -4,6 +4,10 @@
 
 {{< soundcloud-user UserID >}}
 
+{{< soundcloud-playlist PlaylistID >}}
+
+{{< soundcloud-track TrackID >}}
+
 Here is the pending programatic site that Ben managed to build with hugo.. fancy!
 
 <div class="related-posts-grid">
