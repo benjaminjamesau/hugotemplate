@@ -13,8 +13,3 @@ Pending
 --------------------------------------------------
 
 ## Related Post Grid (needs fixing)
-
-<div class="related-posts-grid">
-  {{< relatedpost link="/adderall" image="/featured-images/adderall.png" title="How Long Does Adderall Stay in Your System? (Urine)" >}}
-  <!-- ... more posts ... -->
-</div>

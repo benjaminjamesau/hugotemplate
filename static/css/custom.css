@@ -1,9 +1,10 @@
-.grid-container {
+.related-posts-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 columns */
-    grid-template-rows: repeat(5, auto); /* 5 rows */
-    gap: 10px; /* space between items */
-}
-.grid-item {
-    /* Styles for individual items */
-}
+    gap: 20px; /* Adjust the gap between items as needed */
+  }
+  
+  .related-post-item {
+    /* Style for each item, e.g., setting the image size, title appearance, etc. */
+  }
+  
